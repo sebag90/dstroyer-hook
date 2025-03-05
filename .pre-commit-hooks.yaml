@@ -1,4 +1,4 @@
--   id: dstroyer-hook
+-   id: dstroy_hook
     name: Destroy .DS_Store
     description: 'Destroy .DS_Store'
     entry: dstroy_hook
