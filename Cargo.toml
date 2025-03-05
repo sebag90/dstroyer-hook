@@ -1,0 +1,6 @@
+[package]
+name = "dstroyer-hook"
+version = "0.1.0"
+
+[dependencies]
+walkdir = "2"
